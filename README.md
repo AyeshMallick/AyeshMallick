@@ -2,7 +2,7 @@
 
 Ayeshkant Mallick
 
-👨‍💻 Software Developer | 📍 India | 🎓 BTech in Computer Science and Engineering (Trident Academy of Technology) | 🎓 MAC (Master of Applied Computing) Student (University of Windsor)
+👨‍💻 Software Developer | 📍 India | 🎓 MAC (Master of Applied Computing) Student (University of Windsor) | 🎓 BTech in Computer Science and Engineering (Trident Academy of Technology)
 
 I am a dedicated software developer with expertise in software development, cybersecurity, and AI. With a BTech in Computer Science and Engineering and an upcoming Master of Applied Computing, I specialize in creating innovative solutions and leveraging cutting-edge technologies.
 
