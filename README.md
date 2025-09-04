@@ -2,7 +2,7 @@
 
 Ayeshkant Mallick
 
-👨‍💻 Software Developer | 📍 India | 🎓 MAC (Master of Applied Computing) Student (University of Windsor) | 🎓 BTech in Computer Science and Engineering (Trident Academy of Technology)
+👨‍💻 Software Developer | 📍 India | 🎓 MAC (Master of Applied Computing) Student (University of Windsor) | 🎓 BTech in Computer Science and Engineering (Biju Pattnaik University of Technology)
 
 I am a dedicated software developer with expertise in software development, cybersecurity, and AI. With a BTech in Computer Science and Engineering and an upcoming Master of Applied Computing, I specialize in creating innovative solutions and leveraging cutting-edge technologies.
 
@@ -16,12 +16,12 @@ I am a dedicated software developer with expertise in software development, cybe
 
 **Skills:**
 
-Languages: Python, JavaScript, Java/Kotlin, SQL
+Languages: C++, C, Python, JavaScript, Java/Kotlin, SQL
 
 Technologies: Node.js, Express.js, Firebase, TensorFlow, Keras, OpenCV
 
-Frontend: HTML, CSS, XML
+Frontend: HTML5, CSS3, XML
 
-Database: MySQL, Firebase
+Database: MySQL, Firebase, PostgreSQL
 
-Tools: Git, Jupyter Notebooks
+Tools: Git, Jupyter Notebooks, VSCode, Sublime Text, Kubernetes, Docker, Oracle
