@@ -42,28 +42,28 @@ Cloud & Tools: AWS, Azure, Docker, Kubernetes, Git/GitHub, Jupyter
 
 **🔬 Event Recommendation with GNNs**
 
-Modeled user interests with Graph Neural Networks to build an event recommendation engine.
-Skills: Python, PyTorch Geometric, Graph ML
+- Modeled user interests with Graph Neural Networks to build an event recommendation engine.<br>
+- Skills: Python, PyTorch Geometric, Graph ML
 
 **📱 Nutrimeter**
 
-Android app delivering personalized diet recommendations based on user health data.
-Skills: Android Studio, Firebase, Python
+- Android app delivering personalized diet recommendations based on user health data.<br>
+- Skills: Android Studio, Firebase, Python
 
 **🤖 Sign Language Recognition Model**
 
-AI-powered system recognizing sign language gestures to assist differently-abled individuals.
-Skills: TensorFlow, Keras, OpenCV
+- AI-powered system recognizing sign language gestures to assist differently-abled individuals.<br>
+- Skills: TensorFlow, Keras, OpenCV
 
 **⚙️ Systems Programming Projects**
 
-Built a mini-shell (mbash25) and process tree traversal tool in C using Linux /proc.
-Skills: C, Linux, Process Management
+- Built a mini-shell (mbash25) and process tree traversal tool in C using Linux /proc.<br>
+- Skills: C, Linux, Process Management
 
 **🏥 Blockchain in Healthcare (Research)**
 
-Designing a secure, transparent system for patient record sharing using blockchain + AI for anomaly detection.
-Skills: Blockchain Concepts, Python, Data Security
+- Designing a secure, transparent system for patient record sharing using blockchain + AI for anomaly detection.<br>
+- Skills: Blockchain Concepts, Python, Data Security
 
 <br>
 <br>
