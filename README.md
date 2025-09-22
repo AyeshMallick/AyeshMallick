@@ -22,7 +22,7 @@ I’m always curious to explore emerging technologies and aim to bridge the gap 
 
 🔑 Core Skills
 
-Languages: C, C++, Python, Java, JavaScript, TypeScript, SQL
+Languages: C, C++, Python, Java, JavaScript, SQL
 
 AI/ML: TensorFlow, Keras, scikit-learn, OpenCV, Generative AI, NLP
 
