@@ -14,13 +14,13 @@ I’m always curious to explore emerging technologies and aim to bridge the gap 
 
 🔑 Core Skills
 
-Languages: C, C++, Python, Java, JavaScript, SQL
+Languages: C, C++, Python, Java, JavaScript, TypeScript, SQL
 
 AI/ML: TensorFlow, Keras, scikit-learn, OpenCV, Generative AI, NLP
 
 Backend: Node.js, Express.js, REST APIs
 
-Frontend: HTML5, CSS3, React (familiar), XML
+Frontend: HTML5, CSS3, React, XML
 
 Databases: MySQL, PostgreSQL, Firebase
 
@@ -28,49 +28,51 @@ Cloud & Tools: AWS, Azure, Docker, Kubernetes, Git/GitHub, Jupyter
 
 📂 Featured Projects
 
-🔬 Event Recommendation with GNNs
+**🔬 Event Recommendation with GNNs**
 Modeled user interests with Graph Neural Networks to build an event recommendation engine.
 Skills: Python, PyTorch Geometric, Graph ML
 
-📱 Nutrimeter
+**📱 Nutrimeter**
 Android app delivering personalized diet recommendations based on user health data.
 Skills: Android Studio, Firebase, Python
 
-🤖 Sign Language Recognition Model
+**🤖 Sign Language Recognition Model**
 AI-powered system recognizing sign language gestures to assist differently-abled individuals.
 Skills: TensorFlow, Keras, OpenCV
 
-⚙️ Systems Programming Projects
+**⚙️ Systems Programming Projects**
 Built a mini-shell (mbash25) and process tree traversal tool in C using Linux /proc.
 Skills: C, Linux, Process Management
 
-🏥 Blockchain in Healthcare (Research)
+**🏥 Blockchain in Healthcare (Research)**
 Designing a secure, transparent system for patient record sharing using blockchain + AI for anomaly detection.
 Skills: Blockchain Concepts, Python, Data Security
 
 🏆 Highlights
 
-Represented college in multiple hackathons, building functional prototypes in <48 hours.
+- Represented college in Smart India Hackathons and many other hackathons, building functional prototypes in <48 hours.
 
-Co-op experience in software development & data analytics: contributed to automation, backend optimization, and cross-functional delivery.
+- Internship experience in Web development & data analytics: contributed to automation, backend optimization, and cross-functional delivery.
 
-Certified in Oracle Cloud Infrastructure 2025 Generative AI Professional.
+- Certified in Azure AI by Microsoft.
 
-Strong communicator with proven teamwork in academic, hackathon, and co-op settings.
+- Certified in Oracle Cloud Infrastructure 2025 Generative AI Professional.
+
+- Strong communicator with proven teamwork in academic, hackathon, and co-op settings.
 
 🌱 What I’m Exploring
 
-MLOps for deploying scalable ML pipelines.
+- MLOps for deploying scalable ML pipelines.
 
-Generative AI and its applications in finance and healthcare.
+- Generative AI and its applications in finance and healthcare.
 
-Cloud-native systems and distributed databases.
+- Cloud-native systems and distributed databases.
 
 📫 Connect with Me
 
-LinkedIn: linkedin.com/in/ayeshkant-mallick
+LinkedIn: linkedin.com/in/ayeshmallick
 
-Email: ayeshkantmallick@gmail.com
+Email: ayeshkant2001@gmail.com
 
 GitHub: You’re already here 🚀
 
