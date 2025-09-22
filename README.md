@@ -6,6 +6,7 @@
 
   
 <br>
+<br>
 
 🚀 About Me
 
@@ -14,6 +15,9 @@ I’m a software developer with a strong foundation in computer science, AI, and
 My journey so far spans from developing AI-powered models and healthcare-focused blockchain concepts to building full-stack applications and competing in hackathons, where I thrive under tight deadlines.
 
 I’m always curious to explore emerging technologies and aim to bridge the gap between academic research and practical implementation.
+
+<br>
+<br>
 
 
 🔑 Core Skills
@@ -29,6 +33,9 @@ Frontend: HTML5, CSS3, React, XML
 Databases: MySQL, PostgreSQL, Firebase
 
 Cloud & Tools: AWS, Azure, Docker, Kubernetes, Git/GitHub, Jupyter
+
+<br>
+<br>
 
 
 📂 Featured Projects
@@ -58,6 +65,9 @@ Skills: C, Linux, Process Management
 Designing a secure, transparent system for patient record sharing using blockchain + AI for anomaly detection.
 Skills: Blockchain Concepts, Python, Data Security
 
+<br>
+<br>
+
 
 🏆 Highlights
 
@@ -70,6 +80,9 @@ Skills: Blockchain Concepts, Python, Data Security
 - Certified in Oracle Cloud Infrastructure 2025 Generative AI Professional.
 
 - Strong communicator with proven teamwork in academic, hackathon, and co-op settings.
+
+  <br>
+  <br>
   
 
 🌱 What I’m Exploring
@@ -79,6 +92,9 @@ Skills: Blockchain Concepts, Python, Data Security
 - Generative AI and its applications in finance and healthcare.
 
 - Cloud-native systems and distributed databases.
+
+  <br>
+  <br>
   
 
 📫 Connect with Me
@@ -88,6 +104,9 @@ LinkedIn: linkedin.com/in/ayeshmallick
 Email: ayeshkant2001@gmail.com
 
 GitHub: You’re already here 🚀
+
+<br>
+<br>
 
 
 👉 Always open to collaborations, internships, and research opportunities in AI/ML, systems programming, and cloud-native applications.
