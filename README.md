@@ -2,12 +2,9 @@
 
 🎓 Master of Applied Computing Student @ University of Windsor
 💻 Software Developer | AI & ML Enthusiast | Systems Programming Explorer
-🌍 Passionate about building scalable, impactful tech solutions
+🌍 Passionate about building scalable, impactful tech solutions   
 
-
-
-
-
+  
 
 
 🚀 About Me
