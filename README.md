@@ -5,6 +5,11 @@
 🌍 Passionate about building scalable, impactful tech solutions
 
 
+
+
+
+
+
 🚀 About Me
 
 I’m a software developer with a strong foundation in computer science, AI, and systems programming. With hands-on experience across backend development, data science, and cloud technologies, I enjoy solving challenging problems and turning ideas into real-world applications.
