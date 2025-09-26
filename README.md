@@ -8,7 +8,7 @@
 <br>
 <br>
 
-🚀 About Me
+**🚀 About Me**
 
 I’m a software developer with a strong foundation in computer science, AI, and systems programming. With hands-on experience across backend development, data science, and cloud technologies, I enjoy solving challenging problems and turning ideas into real-world applications.
 
@@ -20,7 +20,7 @@ I’m always curious to explore emerging technologies and aim to bridge the gap 
 <br>
 
 
-🔑 Core Skills
+**🔑 Core Skills**
 
 Languages: C, C++, Python, Java, JavaScript, SQL
 
@@ -38,7 +38,7 @@ Cloud & Tools: AWS, Azure, Docker, Kubernetes, Git/GitHub, Jupyter
 <br>
 
 
-📂 Featured Projects
+**📂 Featured Projects**
 
 **🔬 Event Recommendation with GNNs**
 
@@ -69,7 +69,7 @@ Cloud & Tools: AWS, Azure, Docker, Kubernetes, Git/GitHub, Jupyter
 <br>
 
 
-🏆 Highlights
+**🏆 Highlights**
 
 - Represented college in Smart India Hackathons and many other hackathons, building functional prototypes in <48 hours.
 
@@ -85,7 +85,7 @@ Cloud & Tools: AWS, Azure, Docker, Kubernetes, Git/GitHub, Jupyter
   <br>
   
 
-🌱 What I’m Exploring
+**🌱 What I’m Exploring**
 
 - MLOps for deploying scalable ML pipelines.
 
@@ -97,11 +97,13 @@ Cloud & Tools: AWS, Azure, Docker, Kubernetes, Git/GitHub, Jupyter
   <br>
   
 
-📫 Connect with Me
+**📫 Connect with Me**
 
 LinkedIn: linkedin.com/in/ayeshmallick
 
 Email: ayeshkant2001@gmail.com
+
+Portfolio: https://ayesh4tech.lovable.app/
 
 GitHub: You’re already here 🚀
 
