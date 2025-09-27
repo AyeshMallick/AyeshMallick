@@ -19,6 +19,21 @@ I’m always curious to explore emerging technologies and aim to bridge the gap 
 <br>
 <br>
 
+**🏆 Highlights**
+
+- Represented college in Smart India Hackathons and many other hackathons, building functional prototypes in <48 hours.
+
+- Internship experience in Web development & data analytics: contributed to automation, backend optimization, and cross-functional delivery.
+
+- Certified in Azure AI by Microsoft.
+
+- Certified in Oracle Cloud Infrastructure 2025 Generative AI Professional.
+
+- Strong communicator with proven teamwork in academic, hackathon, and co-op settings.
+
+  <br>
+  <br>
+
 
 **🔑 Core Skills**
 
@@ -69,20 +84,7 @@ Cloud & Tools: AWS, Azure, Docker, Kubernetes, Git/GitHub, Jupyter
 <br>
 
 
-**🏆 Highlights**
 
-- Represented college in Smart India Hackathons and many other hackathons, building functional prototypes in <48 hours.
-
-- Internship experience in Web development & data analytics: contributed to automation, backend optimization, and cross-functional delivery.
-
-- Certified in Azure AI by Microsoft.
-
-- Certified in Oracle Cloud Infrastructure 2025 Generative AI Professional.
-
-- Strong communicator with proven teamwork in academic, hackathon, and co-op settings.
-
-  <br>
-  <br>
   
 
 **🌱 What I’m Exploring**
