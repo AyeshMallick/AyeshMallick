@@ -23,7 +23,7 @@ I’m always curious to explore emerging technologies and aim to bridge the gap 
 
 - Represented college in Smart India Hackathons and many other hackathons, building functional prototypes in <48 hours.
 
-- Internship experience in Web development & data analytics: contributed to automation, backend optimization, and cross-functional delivery.
+- Experienced in Full Stack development & data analytics: contributed to automation, backend optimization, and cross-functional delivery.
 
 - Certified in Azure AI by Microsoft.
 
